@@ -1,0 +1,12 @@
+.butterfly{
+    background-image: url(beautiful-girl.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0px;
+}
+.blue{
+    background-color: rgb(156, 156, 226);
+    margin: 0px;
+    padding: 0px;
+}
